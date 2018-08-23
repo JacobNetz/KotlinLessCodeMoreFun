@@ -1,14 +1,5 @@
 slides:
   - Title
-  - Intro:
-    - Chicago Code Camp
-    - Skyline
-  - Why are you here:
-    - Android dev
-    - Java dev
-    - .NET dev
-    - Stack Overflow
-    - Wrong room
   - What is Kotlin:
     - Official description
     - Multiplatform
@@ -47,5 +38,3 @@ slides:
     - Desktop
     - iOS
     - Android
-  - Questions
-  - Thank You

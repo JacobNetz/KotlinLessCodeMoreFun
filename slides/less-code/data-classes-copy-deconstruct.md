@@ -1,10 +1,10 @@
 ### Data Classes
 #### Component functions, destructuring declarations, `copy`
 
-```
+```kotlin
 data class Person(val first: String, val last: String, var age: Int)
 ```
-```
+```kotlin
 val hazel = Person(first = "Hazel", last = "Fazio", age = 4)
 println(hazel) // Person(first=Hazel, last=Fazio, age=4) 
 

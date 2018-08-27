@@ -23,4 +23,4 @@ val nicknames: List<String> = baseballTeams.map {
 
 
 Note:
-+
++ Called "Safe Call" operator

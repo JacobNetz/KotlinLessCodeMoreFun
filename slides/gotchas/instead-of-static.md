@@ -26,4 +26,5 @@ Note:
 + Package-level functions
 + Object declarations
     + Work as singletons
+    + Object declaration's initialization is thread-safe.
 + Companion objects

@@ -12,6 +12,7 @@
 
 
 Note:
++ These are the only ways that it's possible to get a NPE
 + !! == Not-null assertion operator
     + Converts any value to a non-null type or throws an exception if null
     + "[!!] is for NPE-lovers"

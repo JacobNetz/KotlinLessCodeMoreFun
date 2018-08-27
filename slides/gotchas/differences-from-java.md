@@ -1,4 +1,4 @@
-### Java Has These, Kotlin Does Not
+### Java/C# Has These, Kotlin Does Not
 
 + Ternary-operator (`a ? b : c`)
 + Checked exceptions
@@ -11,5 +11,6 @@ Note:
 + Instead of static members, use package-level functions
     + Also can use object declarations or companion objects
 + Use properties instead of fields
-+ `if` works just fine
++ Ternary replacement: `if` works just fine
+    + If can be be either expression or statement
     + `val max = if (a < b) b else a`

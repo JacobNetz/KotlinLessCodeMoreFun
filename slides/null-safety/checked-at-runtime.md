@@ -19,4 +19,4 @@ val l = b.length // error: variable 'b' can be null
 ```
 
 Note:
-+ Nulls are checked at runtime
++ Compilation errors are thrown anytime the compiler thinks there COULD be a null reference error

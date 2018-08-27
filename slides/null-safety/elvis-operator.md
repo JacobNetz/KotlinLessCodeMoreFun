@@ -11,6 +11,11 @@ public Sport getTeamSport(Team team) {
 }
 ```
 
+```csharp
+// C#
+public Sport GetTeamSport(Team team) => team?.sport ?? Sport.Unknown;
+```
+
 ```kotlin
 // Kotlin
 fun getTeamSport(team: Team?): Sport

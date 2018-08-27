@@ -10,11 +10,14 @@ public void printTeams(Map<String, Team> teamMap) {
 ```
 
 ```csharp
-// C#
 public void PrintTeams(Dictionary<string, Team> teamDictionary)
 {
+    // .NET Full Framework
     foreach (var entry in teamDictionary)
         Console.Out.WriteLine($"{entry.Key} - {entry.Value}");
+    // .NET Core
+    foreach (var (key, value) in teamDictionary)
+        Console.Out.WriteLine($"{key} - {value}");
 }
 ```
 

@@ -1,6 +1,6 @@
 ## 100% Java Interoperability
-<br />
-```
+
+```Kotlin
 import io.reactivex.Flowable
 import io.reactivex.schedulers.Schedulers
 

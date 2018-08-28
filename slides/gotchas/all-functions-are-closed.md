@@ -18,4 +18,4 @@ class Derived() : Base() {
 ```
 
 Note:
-+
++ final keyword is similar to sealed in C#

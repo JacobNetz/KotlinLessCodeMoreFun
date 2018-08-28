@@ -24,7 +24,7 @@ Note:
     + Dialogs/toasts
     + Logging
     + Resources/Dimensions
-+ Anko Layouts
++ Anko Layouts  - creates UIs
     + DSL (Domain-specific language) for Android layouts
 + Anko SQLite
     + Simplifies working with SQLite DBs

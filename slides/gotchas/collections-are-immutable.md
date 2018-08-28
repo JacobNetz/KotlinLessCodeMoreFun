@@ -23,4 +23,5 @@ val mutableTeams: MutableList<Team> = mutableListOf(brewers, reds, cubs)
 ```
 
 Note:
-+
++ Standard collections are immutable
+    + Mutable collections are the exception

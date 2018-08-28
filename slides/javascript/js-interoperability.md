@@ -6,4 +6,8 @@
 </div>
 
 Note:
-+ Converts into ES
++ Transpiles to ECMAScript 5.1
+    + ES2015 in the future
++ Can interact with DOM elements
++ Can interact with graphics like WebGL
++ Also works with server-side JS like Node

@@ -5,4 +5,3 @@
 Note:
 + Official language for Android
 + Available in Android Studio by default
-+ 

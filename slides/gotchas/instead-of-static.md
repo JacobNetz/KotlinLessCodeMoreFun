@@ -1,6 +1,6 @@
 ### Instead of `static`
 
-```
+```kotlin
 package org.faziodev.kotlin
 
 // Package-level function
@@ -14,7 +14,7 @@ object TeamSource {
 }
 ```
 
-```
+```kotlin
 // Import the package and call the method
 val upper: String = nullSafeToUpper(brewers?.name)
 

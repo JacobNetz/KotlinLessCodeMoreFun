@@ -21,4 +21,4 @@ private fun getSummary(team: Team?): String =
 ```
 
 Note:
-+
++ Shows progression from verbose to simplified syntax
